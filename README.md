@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nabeela
 ===========================================================================================================================
 
-Data Analyst | Python Enthusiast | Lifelong Learner
+Data Analyst | Tableau, Power BI, SQL, Python, Pandas and R Enthusiast | Lifelong Learner
 ---------------------------------------------------
 
 
