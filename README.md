@@ -21,10 +21,10 @@ I have financial and administration in healthcare background. I wanted a change,
 
 ## Projects
 
-### R
+### Excel Modelling
 - **Project Name**: [Project Title](link-to-project)
 - **Description**: Brief description of what the project does and its key features.
-- **Technologies Used**: List the libraries/packages used in the project. 
+- **Technologies Used**: List the functions and techniques used in the project.
 ### PowerBI
 - **Project Name**: [Project Title](link-to-project)
 - **Description**: Brief description of what the project does and its key features.
@@ -49,10 +49,10 @@ I have financial and administration in healthcare background. I wanted a change,
 - **Project Name**: [Project Title](link-to-project)
 - **Description**: Brief description of what the project does and its key features.
 - **Technologies Used**: List the tools and concepts used in the project. 
-### Excel Modelling
+### R
 - **Project Name**: [Project Title](link-to-project)
 - **Description**: Brief description of what the project does and its key features.
-- **Technologies Used**: List the functions and techniques used in the project.
+- **Technologies Used**: List the libraries/packages used in the project. 
 has context menu
 
 
