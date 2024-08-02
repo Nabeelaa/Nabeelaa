@@ -9,7 +9,7 @@ Data Analyst | Tableau, Power BI, SQL, Python, Pandas and R Enthusiast | Lifelon
 
 **About Me** 🎓 
 
-I have financial and administration in healthcare background. I wanted a change, so I sought a new path and self-studied Azure fundamentals and networking essentials. This led me to a data technician bootcamp, where I gained skills in Excel, Tableau, Power BI, Access, MySQL, Python, Pandas and R. I also developed a strong understanding of Azure data fundamentals. I am organized, able to meet strict deadlines, and communicate effectively. Now, I am ready to pursue a career in data analysis.
+I have financial and administration in healthcare background. I wanted a change, so I sought a new path and self-studied Azure fundamentals and networking essentials. This led me to a data technician bootcamp, where I gained skills in Excel, Tableau, Power BI, Access, MySQL, Python, Pandas and R. I also developed a strong understanding of Azure data fundamentals. I am organized, creative, able to meet strict deadlines, and communicate effectively. Now, I am ready to pursue a career in data analysis.
 
 
 
