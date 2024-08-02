@@ -14,7 +14,9 @@ I have financial and administration in healthcare background. I wanted a change,
 
 
 📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
+
 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
+
 🌐 Curious about web scraping and API integration. 
 
 ## Projects
