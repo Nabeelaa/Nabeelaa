@@ -19,12 +19,6 @@ I have financial and administration in healthcare background. I wanted a change,
 
 ## Projects
 
-1. **Customer Segmentation** using K-Means Clustering Employed K-Means clustering to identify distinct customer segments based on their purchasing behavior. Cleaned and preprocessed e-commerce transaction data. Visualized segment characteristics using scatter plots and bar charts.
-   
-3. **Predictive Modeling** for Loan Approval Developed a logistic regression model to predict loan approval probabilities. Engineered features and handled missing data. Achieved an accuracy of 82% on the test set.
-4. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods.
-
-
 ### R
 - **Project Name**: [Project Title](link-to-project)
 - **Description**: Brief description of what the project does and its key features.
