@@ -17,7 +17,7 @@ I have financial and administration in healthcare background. I wanted a change,
 
 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
 
-🌐 Curious about web scraping and API integration. 
+🌐 Curious about web scraping, API integration and AI. 
 
 ## Projects
 
