@@ -19,6 +19,14 @@ I have financial and administration in healthcare background. I wanted a change,
 
 🌐 Curious about web scraping, API integration and AI. 
 
+
+
+* 🌍  I'm based in London
+* ✉️  You can contact me at Nabeela_ahmed@live.co.uk
+* 🧠  I'm learning R, Pandas
+* 🤝  I'm open to collaborating in all sectors
+
+
 ## Projects
 
 ### Excel Modelling
@@ -58,11 +66,6 @@ has context menu
 
 
 
-
-* 🌍  I'm based in London
-* ✉️  You can contact me at Nabeela_ahmed@live.co.uk
-* 🧠  I'm learning R, Pandas
-* 🤝  I'm open to collaborating in all sectors
 
 ### Skills
 
