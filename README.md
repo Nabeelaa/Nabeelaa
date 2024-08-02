@@ -58,7 +58,7 @@ has context menu
 
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [training.justit@gmail.com](mailto:training.justit@gmail.com)
+* ✉️  You can contact me at Nabeela_ahmed@live.co.uk
 * 🧠  I'm learning R, Pandas
 * 🤝  I'm open to collaborating in all sectors
 
@@ -74,7 +74,7 @@ has context menu
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Ali06112023" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/Nabeelaa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
